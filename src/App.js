@@ -50,22 +50,22 @@ function App() {
           <ul class="slidelist">
             <li class="slideitem">
               <div class="image-box">
-                <a><img class="image-thumbnail" src="./img/01.jpg" /></a>
+                <a><img class="image-thumbnail" src="img/01.jpg"/></a>
               </div>
             </li>
             <li class="slideitem">
               <div class="image-box">
-                <a><img class="image-thumbnail" src="./img/02.jpg" /></a>
+                <a><img class="image-thumbnail" src="img/02.jpg" /></a>
               </div>
             </li>
             <li class="slideitem">
               <div class="image-box">
-                <a><img class="image-thumbnail" src="./img/03.jpg" /></a>
+                <a><img class="image-thumbnail" src="img/03.jpg" /></a>
               </div>
             </li>
             <li class="slideitem">
               <div class="image-box">
-                <a><img class="image-thumbnail" src="./img/04.jpg" /></a>
+                <a><img class="image-thumbnail" src="img/04.jpg" /></a>
               </div>
             </li>
           </ul>
